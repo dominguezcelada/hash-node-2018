@@ -1,0 +1,24 @@
+{
+  "name": "hashnode-2018-pizza",
+  "version": "0.0.1",
+  "description": "Trainning for Hash Node Google's hackathon in 2018",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominguezcelada/hackathons.git"
+  },
+  "keywords": [
+    "hashnode",
+    "hackathon"
+  ],
+  "author": "OscarDOM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominguezcelada/hackathons/issues"
+  },
+  "homepage": "https://github.com/dominguezcelada/hackathons#readme"
+}
